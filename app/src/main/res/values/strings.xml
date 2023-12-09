@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="news">News</string>
+    <string name="forgot">Halaman Lupa Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home">Selamat datang di halaman home</string>
+</resources>
